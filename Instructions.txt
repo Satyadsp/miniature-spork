@@ -1,12 +1,18 @@
 This is new instructions
-<<<<<<< HEAD
+
 
 
 test teste
 =======
 test test
->>>>>>> 5ff9351a63468fb396dcf03f282f434d03a53cd5
+
 test test
 
 
 Testing branches
+
+
+This is from Installation branch.
+
+
+Hello changes in local installation branch.
